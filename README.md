@@ -30,8 +30,7 @@ Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi y
 ```
 wget -q https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-## sewa autoscript bisa ke https://wa.me/6282116211399 cuman 10k 2bulan 1ip vps
-ReeMods
+## Lo semua ngentot
 ```
 anjay
 ```
