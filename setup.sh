@@ -1,12 +1,12 @@
 #/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » BjhonStore
-# Email      » BjhonStore@gmail.coms
-# telegram   » https://t.me/BjhonStore
+# Develovers » Edy Developeler
+# Email      » Edy Developeler@gmail.coms
+# telegram   » https://t.me/Edy Developeler
 # whatsapp   » wa.me/+6282116211399
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# BjhonStore
+# Edy Developeler
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -33,10 +33,10 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Developer » Bjhonstore${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Developer » Edy Developeler${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
-echo -e "  Pembuat : ${green} BjhonStore ${NC}"
-echo -e "  Recode By BjhonStore ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Pembuat : ${green} Edy Developeler ${NC}"
+echo -e "  Recode By Edy Developeler ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/"
+    REPO="https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/"
 
 ####
 start=$(date +%s)
@@ -279,7 +279,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/register"
+izinsc="https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -316,13 +316,13 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6127773468"
-KEY="7040548398:AAE5g-1kgW65zPHPkdjnqkwqUSuZWCeCQUM"
+CHATID="-1002047467153"
+KEY="6963918712:AAEec6iZq8AfhJ_LBlXBsQfRha8dP7tV24M"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>⚡Bjhonstore premium tunneling⚡</b>
+<b>⚡EdyVPN premium tunneling⚡</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -332,10 +332,10 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>BjhonStore</b>
+<b>EdyVPN</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6282116211399"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/kangbacox"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
@@ -542,7 +542,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/
