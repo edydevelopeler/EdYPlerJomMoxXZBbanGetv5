@@ -1,6 +1,6 @@
 <p style="text-align:center">
 <font color='blue'>┏━━━━━━━━━━━━━━━━━━━┓</b> </font><br>
-<font color="#ffff00"><b>⪼⪼۞ BJHONSTORE  ۞⪻⪻</b></font><br>
+<font color="#ffff00"><b>⪼⪼۞ EDY VPN  ۞⪻⪻</b></font><br>
 <font color="#0a00ff"> ┗━━━━━━━━━━━━━━━━━━━┛</b></font><br>
 <font color="#6495ED"><b>⪼⪼  SERVER PREMIUM ⪻⪻</b></font> <br>
 <font color="#00ffff"><b>THANK YOU FOR USING SERVICE</b></font><br>
@@ -10,7 +10,6 @@
 <font color="#BC8F8F"><b>  ⪼⪼NO HACKING AND CARDING⪻⪻ </b></font><br>
 <font color="#ffff00"><b> ⪼⪼  MAX LOGIN  2 DEVICE ⪻⪻ </b> </font><br>
 <font color='red'><b> ⪼⪼ MELANGGAR = BANNED! ⪻⪻ </b></font><br>
-<font color="#0a00ff">┏━━━━━━━━━━━━━━━━━━━━━┓</b></font><br><font color="#ffff00"><b> Admin : https://wa.link/p1t6ke</b></font><br><font color="#ffff00"><b> Admin : https://wa.link/hdi8gk</b></font><br> <font color="#0a00ff">┗━━━━━━━━━━━━━━━━━━━━━┛</br></font>
 
 ## Update & Upgrade For Debian
 ```
@@ -23,13 +22,13 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/BjhonStore/Autoscript-tunneling-premium/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/edydevelopeler/EdYPlerJomMoxXZBbanGetv5/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 ## sewa autoscript bisa ke https://wa.me/6282116211399 cuman 10k 2bulan 1ip vps
 ReeMods
